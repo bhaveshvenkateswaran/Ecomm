@@ -126,9 +126,9 @@
 
   Additional Notes:
 
-The project utilizes BDD principles for clear test specifications and collaboration.
-Data-driven testing ensures thorough coverage with various test scenarios and data sets.
-A robust CI/CD pipeline with Allure reports and Slack integration provides fast feedback and real-time updates.
+* The project utilizes BDD principles for clear test specifications and collaboration.
+* Data-driven testing ensures thorough coverage with various test scenarios and data sets.
+* A robust CI/CD pipeline with Allure reports and Slack integration provides fast feedback and real-time updates.
 
 
 
