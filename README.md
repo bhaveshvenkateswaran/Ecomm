@@ -124,7 +124,7 @@
 * Leverage mock APIs or database connections for payment and shipping simulations.
 
 
-  Additional Notes:
+**Additional Notes:**
 
 * The project utilizes BDD principles for clear test specifications and collaboration.
 * Data-driven testing ensures thorough coverage with various test scenarios and data sets.
